@@ -19,3 +19,7 @@ python main.py
 - Select texture and model files.
 - Specify the item name and custom model data.
 - Generate the resource pack.
+
+## Details
+
+The Resource Pack version is for 1.20.6
