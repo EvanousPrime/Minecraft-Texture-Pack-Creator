@@ -22,4 +22,5 @@ python main.py
 
 ## Details
 
-The Resource Pack version is for 1.20.6
+- The Resource Pack version is for 1.20.6
+- !Delete all ingore.txt files before using to ensure it operates as intended!
